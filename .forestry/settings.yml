@@ -18,6 +18,13 @@ sections:
   match: "**/[!index]*"
   templates:
   - journal
+  - type: directory
+  path: portfolio/tutoriaux
+  label: Tutoriaux
+  create: all
+  match: "**/[!index]*"
+  templates:
+  - journal
 - type: heading
   label: Theme settings
 - type: directory
