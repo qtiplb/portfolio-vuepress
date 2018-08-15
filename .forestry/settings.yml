@@ -15,7 +15,7 @@ sections:
   path: portfolio/tutoriaux
   label: Tutoriaux
   create: all
-  match: "**/[!index]*"
+  match: "**/*"
   templates:
   - journal
 - type: directory
