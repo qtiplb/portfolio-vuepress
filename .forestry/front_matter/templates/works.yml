@@ -35,3 +35,5 @@ fields:
   type: datetime
   config:
     required: true
+pages:
+- portfolio/works/project-4-test.md
