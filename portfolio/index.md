@@ -1,8 +1,7 @@
 ---
 works_index: true
-hero_text: "<strong>We're Acme</strong>, we work for brands. But most importantly,
-  we work for fun."
-title: Hero
+hero_text: "<strong>Nous sommes Numigi</strong>, et voici notre base de connaissance!"
+title: Documentation
 
 ---
 <Hero :text="$page.frontmatter.hero_text" />
